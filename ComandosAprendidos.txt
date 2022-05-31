@@ -1,0 +1,21 @@
+COMANDOS
+pwd : Muestra la ruta del directorio donde se encuentra.
+cd : Permite navegar entre directorios
+ls : Muestra todos los archivos que se encuentran en ese directorio.
+ls -alt: muestra los archivos ocultos
+mkdir NuevaCarpeta : Crea una carpeta con ese nombre.
+rm - r: elimina carpeta deseada.
+Comando --help : Muestra una descripción de cómo funciona el comando. 
+clear : Limpia la consola.
+git config : Muestra todas las configuraciones que pueden realizarse en git.
+
+git clone link_repositorio : Sirve para descargar desde un repositorio remoto el repositorio
+en sí en un directorio de nuestra computadora.
+
+
+git pull : copiar commits del repositorio remoto a nuestro repositorio local.
+
+git push : subir commits del repositorio local al repositorio remoto.
+git status : Permite analizar los cambios que se han hecho en el repositorio.
+
+git add Archivo : Agrega al Staging Area un archivo del repositorio. (Leer los comentarios al hacer git status).
